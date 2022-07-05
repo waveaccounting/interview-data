@@ -1,0 +1,111 @@
+{
+  "data": {
+    "customers": [
+      {
+        "id": 120911,
+        "name": "A Customer",
+        "email": "customer@email.com",
+        "channel": "website",
+        "address": {
+          "line1": "12 Main St.",
+          "postal": "M1M 1M1",
+          "city": "Toronto",
+          "province": "ON",
+          "country": "CA"
+        }
+      },
+      {
+        "id": 146633,
+        "name": "Another Customer",
+        "email": "customer2@email.com",
+        "channel": "phone",
+        "address": {
+          "line1": "12 Yonge St. #23",
+          "postal": "M2M 2M2",
+          "city": "Toronto",
+          "province": "ON",
+          "country": "CA"
+        }
+      },
+      {
+        "id": 146633,
+        "name": "Another Customer",
+        "email": "customer2@email.com",
+        "channel": "phone",
+        "address": {
+          "line1": "12 Yonge St. #13",
+          "postal": "M2M 2M2",
+          "city": "Toronto",
+          "province": "ON",
+          "country": "CA"
+        }
+      },
+      {
+        "id": 171981,
+        "name": "A Great Customer",
+        "email": "customerplusplus@email.com",
+        "channel": "email"
+      },
+      {
+        "id": 217281,
+        "name": "Best Customer",
+        "email": "customeryes@email.com",
+        "address": {
+          "line1": "30 Yonge St. #13",
+          "postal": "M2M 2M2",
+          "city": "Toronto",
+          "province": "ON",
+          "country": "CA"
+        }
+      },
+      {
+        "id": 561234,
+        "name": "Fantastic Customer",
+        "email": "money@email.com",
+        "channel": "email",
+        "address": {
+          "line1": "1221 Yonge St. #21",
+          "postal": "M2M 2M2",
+          "city": "Toronto",
+          "province": "ON",
+          "country": "CA"
+        }
+      },
+      {
+        "id": 898774,
+        "name": "My Customer",
+        "email": "mycustomer@email.com"
+      },
+      {
+        "id": 561234,
+        "name": "Wow Fantastic Customer",
+        "email": "wow@email.com",
+        "channel": "word-of-mouth",
+        "address": {
+          "line1": "44 Main St.",
+          "postal": "E0E E0E",
+          "city": "Vancouver",
+          "province": "BC",
+          "country": "CA"
+        }
+      },
+      {
+        "id": 234561,
+        "name": "Not A Bad Customer, this person is pretty great. I love working with them.",
+        "email": "great@email.com",
+        "channel": "word-of-mouth",
+        "address": {
+          "line1": "100 Main St.",
+          "postal": "E0E E0E",
+          "city": "Vancouver",
+          "province": "BC",
+          "country": "CA"
+        }
+      }
+    ]
+  },
+  "errors": [],
+  "pagination": {
+    "next": "/customers?next=ABCDEFG123"
+  }
+}
